@@ -8,7 +8,6 @@
 #   hubot Yo dawg <text> so <text> - Generates Yo Dawg
 #   hubot ALL YOUR <text> ARE BELONG TO US - Generates Zero Wing with the caption of <text>
 #   hubot If <text>, <word that can start a question> <text>? - Generates Philosoraptor
-#   hubot <text>, BITCH PLEASE <text> - Generates Yao Ming
 #   hubot <text>, COURAGE <text> - Generates Courage Wolf
 #   hubot ONE DOES NOT SIMPLY <text> - Generates Boromir
 #   hubot IF YOU <text> GONNA HAVE A BAD TIME - Ski Instructor
